@@ -1,8 +1,5 @@
-# Présentaion d' une oeuvre numérique par Sitmonternna Yi
-## Documentation de l'oeuvre numérique - Isochrone
+# Documentation de l'oeuvre numérique - Isochrone - par Sitmonternna Yi
 ![alt text](https://github.com/Sitmonternna/documentation_isochrone/blob/main/img/isochrone_img.jpg)
-## Video
-https://github.com/Sitmonternna/documentation_isochrone/blob/main/video/isochrone_recording.mp4
 
 ## Équipe
 Isochrone est une création numérique créer par Manuel Chantre du Studio Chantre en collaboration avec Francis 
