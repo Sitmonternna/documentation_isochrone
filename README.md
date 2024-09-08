@@ -5,13 +5,13 @@
 Isochrone est une création numérique créer par Manuel Chantre du Studio Chantre en collaboration avec Francis 
 Tremblay ainsi que le Cégep André-Laurendreandeau et supporter financièrement par le gouvernement du Québec.
 
-### Concept, dessin technique paramétrique, production, ateliers 
+#### Concept, dessin technique paramétrique, production, ateliers 
  Manuel Chantre
  
-### Contribution visuel 
+#### Contribution visuel 
  Francis Tremblay
 
-### Équipe étudiante (sculpture):
+#### Équipe étudiante (sculpture):
  Sarra Boussoukaya
  <br>
  Madouba Diallo 
@@ -26,7 +26,7 @@ Tremblay ainsi que le Cégep André-Laurendreandeau et supporter financièrement
  <br>
  Francis Tremblay
  
-### Reconnaissance: 
+#### Reconnaissance: 
  Bruno Santerre et Gilbert Forest du cégep André-Laurendreandeau
  <br>
  Olivier Toutiras Anaïs Beauchemin de la Maison de la Culture Marie-Uguay
