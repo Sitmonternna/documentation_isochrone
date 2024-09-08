@@ -65,15 +65,8 @@ de croissance des plantes et sa beauté nous plonge dans une immersion de couleu
 qu' aux adultes.
 
 ### Aspects Techniques
-Bois
-<br>
-Peinture acrylique
-<br>
-Lecteur de fichier vidéo 
-<br>
-Projecteur vidéo
+Bois, peinture acrylique, lecteur de fichier vidéo, projecteur vidéo .
 
- 
 ![sculpture](https://github.com/Sitmonternna/documentation_isochrone/blob/main/img/isochrone_sculpture.jpg)
 <br>
 ![alt text](https://github.com/Sitmonternna/documentation_isochrone/blob/main/img/isochrone_sculpture_cote.jpg)
