@@ -11,7 +11,7 @@ Tremblay ainsi que le Cégep André-Laurendreandeau et supporter financièrement
 #### Contribution visuel 
  Francis Tremblay
 
-#### Équipe étudiante (sculpture):
+#### Équipe étudiante (sculpture)
  Sarra Boussoukaya
  <br>
  Madouba Diallo 
@@ -26,11 +26,12 @@ Tremblay ainsi que le Cégep André-Laurendreandeau et supporter financièrement
  <br>
  Francis Tremblay
  
-#### Reconnaissance: 
+#### Reconnaissance 
  Bruno Santerre et Gilbert Forest du cégep André-Laurendreandeau
  <br>
  Olivier Toutiras Anaïs Beauchemin de la Maison de la Culture Marie-Uguay
  <br>
+ #### Production
  Olivier Heaps-Drolet
  <br>
  Annie Lévesque 
@@ -40,11 +41,14 @@ Tremblay ainsi que le Cégep André-Laurendreandeau et supporter financièrement
  Émilie Lévesque-Clément
  
 ## Date et endroit
-Maison de la cutlture Marie-Uguay (CA) 2019.
-<br>
-Rendez-vous Québec Cinéma,Cinémathèque Québécoise, Montreal (CA), 2020
-<br>
-MAPP_MTL, Never Apart, Montreal (CA), 2019-2020
+#### Maison de la cutlture Marie-Uguay (CA) 2019.
+Maison de la Culture Marie-Uguay est un lieu offrant des spectacle et expositions gratuites à moins de indication contraire. C' est un centre pour 
+les artistes en émergence et toute l'année elle offre des évènemen qui permmettent de découvrir des ouevres avec d' uniques forme d'art ainsi que 
+d'autre discipline d'art.
+
+#### Rendez-vous Québec Cinéma,Cinémathèque Québécoise, Montreal (CA), 2020
+Rendez-vous Québec Cinéma est un festival de cinéma 
+#### MAPP_MTL, Never Apart, Montreal (CA), 2019-2020
 
 ## Description de l' oeuvre
 Isochrone est une série de sculpture avec la projection de lumières-vidéos faites avec divers ateliers d'initiation aux arts numériques, le vidéo 
