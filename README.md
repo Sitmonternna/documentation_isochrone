@@ -1,41 +1,11 @@
-# Documentation de l'oeuvre numérique - Isochrone - par Sitmonternna Yi
+# Documentation de l'oeuvre numérique - Isochrone
 ![alt text](https://github.com/Sitmonternna/documentation_isochrone/blob/main/img/isochrone_img.jpg)
 
 ## Équipe
 Isochrone est une création numérique créer par Manuel Chantre du Studio Chantre en collaboration avec Francis 
-Tremblay et supporter par le gouvernement du québec ainsi que le cégep André-Laurendreandeau.
+Tremblay ainsi que le Cégep André-Laurendreandeau et supporter financièrement par le gouvernement du Québec.
 
-## Date et endroit
-Maison de la cutlture Marie-Uguay (CA) 2019.
-<br>
-Rendez-vous Québec Cinéma,Cinémathèque Québécoise, Montreal (CA), 2020
-<br>
-MAPP_MTL, Never Apart, Montreal (CA), 2019-2020
-
-## thématique de l'oeuvre
-### Description générale:
-C'est une installation digital de sculpture lumineuse inspiré par le concept de motion circulaire représentant 
-la notion de isochronisme : la simultanéité de deux phénomènes.
-    
-### Objectifs de l'œuvre
-C'est une oeuvre nuérique qui présente l' évolution de la croissance des plantes à l'aide de mouvement qui 
-tourne en rond(cercle) ainsi que des formules mathématique afin de généré les cercles lumineuse.
-        
-### Public cible: 
-Le monde général - Les personnes qui aiment à la fois l'art numérique que l' art sur place - l'oeuvre est 
-la combinaison des deux .
-        
- ### Création de l'oeuvre - Médias utilisés
- Sculture faite en bois
-<br>
-peinture acrylic
-<br>
- projecteur vidéo 
-<br>
-lecteur multimédia
-    
-## Processus de création :
-### Concept, 3D design, production, guide 
+### Concept, dessin technique paramétrique, production, ateliers 
  Manuel Chantre
  
 ### Contribution visuel 
@@ -69,26 +39,54 @@ lecteur multimédia
  <br>
  Émilie Lévesque-Clément
  
+## Date et endroit
+Maison de la cutlture Marie-Uguay (CA) 2019.
+<br>
+Rendez-vous Québec Cinéma,Cinémathèque Québécoise, Montreal (CA), 2020
+<br>
+MAPP_MTL, Never Apart, Montreal (CA), 2019-2020
+
+## Description de l' oeuvre
+Isochrone est une série de sculpture avec la projection de lumières-vidéos faites avec divers ateliers d'initiation aux arts numériques, le vidéo 
+mapping, la découpe de laser sur le bois et du design paramétrique. Ainsi la sculpture et le mouvement circulaire sont générer par des formules 
+mathématiques du cercles et du spirale. Sa forme tridimensionnelle en bois et son mouvement lumineux représentent la notion d’isochronisme, 
+c’est-à-dire la simultanéité de deux phénomènes.Ce projet a permit aux étudiants du Cégep André-Laurendreau de l' hivers 2019 de participer 
+activement afin de réaliser cette oeuvre en fusionnant leur connaissance mathématique avec leur créativité.
+
+Cette oeuvre  fusionne les sciences et l'art ensemble, où le mouvement circulaire et son cycle unissent ces deux notion ensemble. 
+L' intention derrière cette oeuvre est d'illustrer le processus naturel de la croissance des plantes en se basant sur la suite Fibonacci, qui
+est une série de nombre exprimant la croissance des végétaux en forme spirale comme les pépins de pommes et de pelure d'annanas , ainsi que de 
+design paramétrique et  de représentation artistiques des plantes . 
+Emanuel Chantre cherche à démontrer la beauté des structures naturelles (plantes) et de leur intégration dans le domaine de l'art.
+
+Cette oeuvre cible le publique général enfant autant que les adultes -
+la sculpture qui fait portrait de la science et l'art avec l'intention de démontrer le proccessus
+de croissance des plantes et sa beauté nous plonge dans une immersion de couleurs lumineuse  qui plait autant aux enfants 
+qu' aux adultes.
+
+### Aspects Techniques
+Bois
+<br>
+Peinture acrylique
+<br>
+Lecteur de fichier vidéo 
+<br>
+Projecteur vidéo
+
+ 
 ![alt text](https://github.com/Sitmonternna/documentation_isochrone/blob/main/img/isochrone_sculpture.jpg)
 <br>
 ![alt text](https://github.com/Sitmonternna/documentation_isochrone/blob/main/img/isochrone_sculpture_cote.jpg)
 
-  ### Fonctionnement et composante de l'oeuvre
- 
-  #### Composante centrale:
-  Le motion circulaire lumineux soutenue par la sculpture
-  <br>
-  Fonctionnement : Le motion circulaire est générer avec des formulues mathématique qui soutien la thématique 
-  de la croissance des plantes.
-  <br>
-  Impact:
-  Composante est le centre de l'oeuvre créant harmonie entre les deux types d'art.
-  <br>
-   ![alt text](https://github.com/Sitmonternna/documentation_isochrone/blob/main/img/isochrone_img_face_loin.jpg)
-   <br>
-  ### Commentaire
-  Oeuvre spectaculaire combianison d' art numérique et de l'art visuel. 
-  
-  ### source de documentation:
-  https://village-numerique.mutek.org/en/installations/isochrone-by-manuel-chantre
-  http://www.manuelchantre.com/isochrone/
+## Fonctionnement et composante de l'oeuvre
+Le motion circulaire lumineux soutenue par la sculpture démontre la représentation artistique de Emmanuel Chantre sur
+la croissance des plantes.
+
+Cette représentation est démontrer par des motions circulaires lumineuses  générés avec des formules mathématiques qui immerse le visiteur 
+dans la croissance de plantes de façon artistique.
+
+Cette composante au centre de l'oeuvre crée une harmonie entre l'art numérique et traditionnel qui est aussi mélanger avec la sciences
+démontre de l'avance dans le domaine des arts, démontrant du mélange de la technologie avec l'art.
+<br>
+![alt text](https://github.com/Sitmonternna/documentation_isochrone/blob/main/img/isochrone_img_face_loin.jpg)
+
