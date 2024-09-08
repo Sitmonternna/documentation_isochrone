@@ -74,7 +74,7 @@ Lecteur de fichier vidéo
 Projecteur vidéo
 
  
-![alt text](https://github.com/Sitmonternna/documentation_isochrone/blob/main/img/isochrone_sculpture.jpg)
+![sculpture](https://github.com/Sitmonternna/documentation_isochrone/blob/main/img/isochrone_sculpture.jpg)
 <br>
 ![alt text](https://github.com/Sitmonternna/documentation_isochrone/blob/main/img/isochrone_sculpture_cote.jpg)
 
