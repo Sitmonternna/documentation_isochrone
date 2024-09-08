@@ -1,5 +1,5 @@
 # Documentation de l'oeuvre numérique - Isochrone
-![alt text](https://github.com/Sitmonternna/documentation_isochrone/blob/main/img/isochrone_img.jpg)
+![alt text](http://www.manuelchantre.com/wp-content/uploads/2022/10/ISOCHRONE_23_Photo_Credit_Manuel_Chantre_4-1536x1025.jpg)
 
 ## Équipe
 Isochrone est une création numérique créer par Manuel Chantre du Studio Chantre en collaboration avec Francis 
