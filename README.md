@@ -78,8 +78,10 @@ lecteur multimédia
  
   #### Composante centrale:
   Le motion circulaire lumineux soutenue par la sculpture
+  <br>
   Fonctionnement : Le motion circulaire est générer avec des formulues mathématique qui soutien la thématique 
   de la croissance des plantes.
+  <br>
   Impact:
   Composante est le centre de l'oeuvre créant harmonie entre les deux types d'art.
   <br>
