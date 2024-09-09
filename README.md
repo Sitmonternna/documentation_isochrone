@@ -71,7 +71,7 @@ qu' aux adultes.
 ### Aspects Techniques
 Bois, peinture acrylique, lecteur de fichier vidéo, projecteur vidéo .
 
-![sculpture](https://github.com/Sitmonternna/documentation_isochrone/blob/main/img/isochrone_sculpture.jpg)
+![sculpture](img/isochrone_img.jpg)
 <br>
 ![alt text](https://github.com/Sitmonternna/documentation_isochrone/blob/main/img/isochrone_sculpture_cote.jpg)
 
