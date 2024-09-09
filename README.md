@@ -89,11 +89,14 @@ est une série de nombre exprimant la croissance des végétaux en forme spirale
 design paramétrique et  de représentation artistiques des plantes . 
 Emanuel Chantre cherche à démontrer la beauté des structures naturelles (plantes) et de leur intégration dans le domaine de l'art.
 
+<img src="https://github.com/Sitmonternna/documentation_isochrone/blob/main/img/processus_2.jpg" width="500" height="300"> <img src="https://github.com/Sitmonternna/documentation_isochrone/blob/main/img/processus_1.jpg" width="500" height="300">
+<img src="https://github.com/Sitmonternna/documentation_isochrone/blob/main/img/processus_3.jpg" width="500" height="300"> <img src="https://github.com/Sitmonternna/documentation_isochrone/blob/main/img/processus_4.jpg" width="500" height="300">
+source photos : https://www.facebook.com/creationsculpturevideo/?locale=mk_MK
+
 Cette oeuvre cible le publique général enfant autant que les adultes -
 la sculpture qui fait portrait de la science et l'art avec l'intention de démontrer le proccessus
 de croissance des plantes et sa beauté nous plonge dans une immersion de couleurs lumineuse  qui plait autant aux enfants 
 qu' aux adultes.
-
 
 ### Aspects Techniques
 Bois, peinture acrylique, lecteur de fichier vidéo, projecteur vidéo .
