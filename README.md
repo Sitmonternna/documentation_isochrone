@@ -53,9 +53,6 @@ sources photos: https://www.facebook.com/creationsculpturevideo/?locale=mk_MK
  #### MAPP_MTL, Never Apart, Montreal (CA), 2019-2020 (sculpture I)
 MAPP MTL transforme des espaces publics en lieux de liberté d'expression artistique en s'appuyant sur la projection mapping. Son objectif principal est de favoriser 
 le développement de la projection mapping en partageant ces avancées avec les quartiers, afin de devenir le lien entre les artistes, les habitants et le quartier.
-
-Lors de l'année de l'exposition, durant la période de la COVID-19, MAPP MTL et Never Apart se sont unis pour organiser une exposition virtuelle où les visiteurs 
-pouvaient découvrir les arts numériques en 3D virtuellement, grâce au micro-mapping.
  <br>
 <img src="img/neverAppart_mappMtl.png">
  <br>
@@ -65,8 +62,6 @@ sources photos: https://www.facebook.com/creationsculpturevideo/?locale=mk_MK
 Un festival dédié exclusivement au cinéma, couvrant plusieurs genres et approches cinématographiques. Cette compagnie n'est pas entièrement focalisée sur le cinéma ;
 elle propose également à ses visiteurs des événements gratuits liés à d'autres formes d'art, afin d'encourager les artistes dans leur démarche créative.
 
-À l'espace Rendez-vous (en collaboration avec Hydro-Québec et Radio-Canada), du 27 février au 7 mars, Rendez-vous Québec Cinéma permet aux visiteurs du festival de 
-découvrir gratuitement des arts numériques québécois, y compris ceux de Manuel Chantre.
  <br>
 <img src="img/isochrone_img.jpg" width="400" height="250"> <img src="img/isochrone_img_cote.jpg" width="400" height="250">
 <img src="img/isochrone_sculpture.jpg" width="400" height="250"> <img src="img/isochrone_sculpture_cote.jpg" width="400" height="250">
@@ -81,13 +76,14 @@ au public. Les visiteurs peuvent admirer et interagir avec les arts numériques 
  <br>
 sources photo: https://www.facebook.com/creationsculpturevideo/?locale=mk_MK
 
-## Description de l' oeuvre
+## Description et processus
 Isochrone est une série de sculptures utilisant la projection de lumières et de vidéos, réalisées grâce à divers ateliers d'initiation aux arts numériques, au vidéo 
 mapping,à la découpe laser sur le bois et au design paramétrique. Les sculptures et leur mouvement circulaire sont générés par des formules mathématiques liées aux 
 cercles et aux spirales. Leur forme tridimensionnelle en bois et leur mouvement lumineux illustrent la notion d'isochronisme, c'est-à-dire la simultanéité de deux 
 phénomènes. Ce projet a permis aux étudiants du Cégep André-Laurendeau, durant l'hiver 2019, de participer activement à la réalisation de cette œuvre en fusionnant 
 leurs connaissances mathématiques avec leur créativité.
 
+## Intention
 Cette œuvre fusionne les sciences et l'art, où le mouvement circulaire et son cycle unissent ces deux notions. L'intention derrière cette œuvre est d'illustrer le 
 processus naturel de la croissance des plantes en se basant sur la suite de Fibonacci, qui est une série de nombres exprimant la croissance des végétaux en forme spirale, 
 comme les pépins de pommes et les écailles d'ananas, ainsi que sur le design paramétrique et la représentation artistique des plantes. Manuel Chantre cherche à démontrer 
