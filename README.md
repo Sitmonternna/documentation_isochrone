@@ -49,10 +49,11 @@ qui permmettent de découvrir des ouevres avec d' uniques forme d'art ainsi que 
 MAPP MTL transforme des espaces publics en liberté d'expression artistique en s' appuyant à la projection mapping. Son objectif principal est de favoriser 
 le développemnt de la projection mapping en partageant cet avancement avec le quartiers afin de devenir le lien entre les artistes, habitants et le
 quartier.
-
 À l'année de l' exhibition, c'était autour du temps de covid-19 donc MAPP MTL et Never Apart se sont unit pour organiser une ehebition virtuel
 où les visiteur pouvait visiter les art nuériques 3d virtuellement avec du micro-mapping.
 
+<img src="img/isochrone_img.jpg" width="500" height="300">
+source photo : Rendez-vous Québec Cinéma,Cinémathèque Québécoise, Montréal (CA), 2020   
  #### Rendez-vous Québec Cinéma,Cinémathèque Québécoise, Montreal (CA), 2020
 Un festival dédié au cinéma uniquement couvrant plusieurs genres et d' approche cinématographique. Cette compagnie n' est pas entièrement 
 focussé sur le cinéma, elle offre à ses visiteurs également des évènement gratuite relié à d'autre genre d'art afin d'encourager les 
