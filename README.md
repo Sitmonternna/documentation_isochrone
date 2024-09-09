@@ -66,8 +66,8 @@ artiste dans leur démarche artistique.
 À l'espace rendez-vous(collaboration avec hydro québec et radio canada) du 27 février au 7 mars, Rendez-vous Québec Cinéma permet les 
 visiteur du festival à découvrir des arts numériques québecoises gratuitement qui inclu Manuel Chantre.
  <br>
-<img src="img/isochrone_img.jpg" width="500" height="300"> <img src="img/isochrone_img_cote.jpg" width="500" height="300">
-<img src="img/isochrone_sculpture.jpg" width="500" height="300"> <img src="img/isochrone_sculpture_cote.jpg" width="500" height="300">
+<img src="img/isochrone_img.jpg" width="400" height="250"> <img src="img/isochrone_img_cote.jpg" width="400" height="250">
+<img src="img/isochrone_sculpture.jpg" width="400" height="250"> <img src="img/isochrone_sculpture_cote.jpg" width="400" height="250">
  <br>
 source photo : Rendez-vous Québec Cinéma,Cinémathèque Québécoise, Montréal (CA), 2020   
 
