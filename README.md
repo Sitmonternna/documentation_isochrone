@@ -56,8 +56,8 @@ quartier.
 où les visiteur pouvait visiter les art nuériques 3d virtuellement avec du micro-mapping.
 
 <img src="img/neverAppart_mappMtl.png">
-
 sources photos: https://www.facebook.com/creationsculpturevideo/?locale=mk_MK  
+
  #### Rendez-vous Québec Cinéma,Cinémathèque Québécoise, Montreal (CA), 2020
 Un festival dédié au cinéma uniquement couvrant plusieurs genres et d' approche cinématographique. Cette compagnie n' est pas entièrement 
 focussé sur le cinéma, elle offre à ses visiteurs également des évènement gratuite relié à d'autre genre d'art afin d'encourager les 
@@ -74,7 +74,7 @@ source photo : Rendez-vous Québec Cinéma,Cinémathèque Québécoise, Montréa
  transforment en galerie d' art ouverte au publique. Les visiteurs peuvent admirer et intéragir avec les arts numériques et découvrir de 
  nouveau monde grâce ces expériences.
  
-<img src="img/mutek.jpg">
+<img src="img/mutek.jpg" width="800" height="500">
 sources photo: https://www.facebook.com/creationsculpturevideo/?locale=mk_MK
 
 ## Description de l' oeuvre
@@ -89,9 +89,9 @@ L' intention derrière cette oeuvre est d'illustrer le processus naturel de la c
 est une série de nombre exprimant la croissance des végétaux en forme spirale comme les pépins de pommes et de pelure d'annanas , ainsi que de 
 design paramétrique et  de représentation artistiques des plantes . 
 Emanuel Chantre cherche à démontrer la beauté des structures naturelles (plantes) et de leur intégration dans le domaine de l'art.
-
+<img src="img/isochrone_img.jpg" width="500" height="300">
 <img src="https://github.com/Sitmonternna/documentation_isochrone/blob/main/img/sculpture_etudiant1.jpg" width="500" height="300"> <img src="/img/processus_1.jpg" width="500" height="300">
-<img src="/img/processus_3.jpg" width="500" height="300"> <img src="/img/processus_4.jpg" width="500" height="300">
+<img src="img/processus_3.jpg" width="500" height="300"> <img src="/img/processus_4.jpg" width="500" height="300">
 source photos : https://www.facebook.com/creationsculpturevideo/?locale=mk_MK
 
 Cette oeuvre cible le publique général enfant autant que les adultes -
