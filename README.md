@@ -1,5 +1,6 @@
 # Documentation de l'oeuvre numérique - Isochrone
-<img src="img/isochrone_img_face_loin.jpg" > Rendez-vous Québec Cinéma, Cinémathèque Québécoise, Montreal (CA), 2020
+<img src="img/isochrone_img_face_loin.jpg" >
+source photo : Rendez-vous Québec Cinéma,Cinémathèque Québécoise, Montréal (CA), 2020
 
 ## Équipe
 Isochrone est une création numérique créer par Manuel Chantre du Studio Chantre en collaboration avec Francis 
@@ -44,7 +45,13 @@ Tremblay ainsi que le Cégep André-Laurendreandeau et supporter financièrement
 C' est un lieu qui offre des spectacle et expositions gratuites à moins de indication contraire et toute l'année elle offre des évènement 
 qui permmettent de découvrir des ouevres avec d' uniques forme d'art ainsi que d'autre discipline d'art. 
 
- #### MAPP_MTL, Never Apart, Montreal (CA), 2020 (sculpture I)
+ #### MAPP_MTL, Never Apart, Montreal (CA), 2019-2020 (sculpture I)
+MAPP MTL transforme des espaces publics en liberté d'expression artistique en s' appuyant à la projection mapping. Son objectif principal est de favoriser 
+le développemnt de la projection mapping en partageant cet avancement avec le quartiers afin de devenir le lien entre les artistes, habitants et le
+quartier.
+
+À l'année de l' exhibition, c'était autour du temps de covid-19 donc MAPP MTL et Never Apart se sont unit pour organiser une ehebition virtuel
+où les visiteur pouvait visiter les art nuériques 3d virtuellement avec du micro-mapping.
 
  #### Rendez-vous Québec Cinéma,Cinémathèque Québécoise, Montreal (CA), 2020
 Un festival dédié au cinéma uniquement couvrant plusieurs genres et d' approche cinématographique. Cette compagnie n' est pas entièrement 
@@ -52,6 +59,10 @@ focussé sur le cinéma, elle offre à ses visiteurs également des évènement 
 artiste dans leur démarche artistique.
 À l'espace rendez-vous(collaboration avec hydro québec et radio canada) du 27 février au 7 mars, Rendez-vous Québec Cinéma permet les 
 visiteur du festival à découvrir des arts numériques québecoises gratuitement qui inclu Manuel Chantre.
+
+<img src="img/isochrone_img.jpg" width="500" height="300"> <img src="img/isochrone_img_cote.jpg" width="500" height="300">
+<img src="img/isochrone_sculpture.jpg" width="500" height="300"> <img src="img/isochrone_sculpture_cote.jpg" width="500" height="300">
+source photo : Rendez-vous Québec Cinéma,Cinémathèque Québécoise, Montréal (CA), 2020   
 
  #### Mutek, Village Numérique, Montreal (CA), 2024
  C'est un parcours urbain où la technologie et la créativité s' unissent. À la tombée de la nuit, le Quartier des scpectacles se
@@ -80,8 +91,6 @@ qu' aux adultes.
 ### Aspects Techniques
 Bois, peinture acrylique, lecteur de fichier vidéo, projecteur vidéo .
 
-<img src="img/isochrone_img.jpg" width="500" height="300"> <img src="img/isochrone_img_cote.jpg" width="500" height="300">
-<img src="img/isochrone_sculpture.jpg" width="500" height="300"> <img src="img/isochrone_sculpture_cote.jpg" width="500" height="300">
 
 
 ## Fonctionnement et composante de l'oeuvre
