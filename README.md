@@ -88,7 +88,8 @@ Cette oeuvre  fusionne les sciences et l'art ensemble, où le mouvement circulai
 L' intention derrière cette oeuvre est d'illustrer le processus naturel de la croissance des plantes en se basant sur la suite Fibonacci, qui
 est une série de nombre exprimant la croissance des végétaux en forme spirale comme les pépins de pommes et de pelure d'annanas , ainsi que de 
 design paramétrique et  de représentation artistiques des plantes . 
-Emanuel Chantre cherche à démontrer la beauté des structures naturelles (plantes) et de leur intégration dans le domaine de l'art.
+Manuel Chantre cherche à démontrer la beauté des structures naturelles (plantes) et de leur intégration dans le domaine de l'art.
+
 <img src="img/isochrone_img.jpg" width="500" height="300"> <img src="img/processus_1.jpg" width="500" height="300">
 <img src="img/processus_3.jpg" width="500" height="300"> <img src="img/processus_4.jpg" width="500" height="300">
 source photos : https://www.facebook.com/creationsculpturevideo/?locale=mk_MK
