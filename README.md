@@ -45,7 +45,7 @@ Tremblay ainsi que le Cégep André-Laurendreandeau et supporter financièrement
 C' est un lieu qui offre des spectacle et expositions gratuites à moins de indication contraire et toute l'année elle offre des évènement 
 qui permmettent de découvrir des ouevres avec d' uniques forme d'art ainsi que d'autre discipline d'art. 
 
-<img src="img/maison_culture_image1.jpg" width="500" height="350"> <img src="img/maison_culture_image2.jpg" width="500" height="350">
+<img src="img/maison_culture_image1.jpg" width="500" height="350"> <img src="img/maison_culture_image2.jpg" width="500" height="300">
 <img src="img/maison_culture_image3.jpg" width="500" height="350"> <img src="img/maison_culture_image4.jpg" width="500" height="350">
 sources photos: https://www.facebook.com/creationsculpturevideo/?locale=mk_MK
  #### MAPP_MTL, Never Apart, Montreal (CA), 2019-2020 (sculpture I)
