@@ -100,9 +100,10 @@ qu' aux adultes.
 ### Aspects Techniques
 Bois, peinture acrylique, lecteur de fichier vidéo, projecteur vidéo .
 
-  <br>
-<img src="img/processus_1.jpg" width="400" height="250"> <img src="img/processus_2.jpg" width="400" height="250">
-<img src="img/processus_3.jpg" width="400" height="250"> <img src="img/processus_4.jpg" width="400" height="250">
+  
+<img src="img/processus_1.jpg" width="400" height="250">  <img src="img/processus_2.jpg" width="400" height="250">
+<img src="img/processus_3.jpg" width="400" height="250">  <img src="img/processus_4.jpg" width="400" height="250">
+<br>
 sources photo: https://www.facebook.com/creationsculpturevideo/?locale=mk_MK
 
 ## Fonctionnement et composante de l'oeuvre
