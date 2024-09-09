@@ -44,9 +44,10 @@ Tremblay ainsi que le Cégep André-Laurendreandeau et supporter financièrement
  #### Maison de la cutlture Marie-Uguay (CA) 2019.
 C' est un lieu qui offre des spectacle et expositions gratuites à moins de indication contraire et toute l'année elle offre des évènement 
 qui permmettent de découvrir des ouevres avec d' uniques forme d'art ainsi que d'autre discipline d'art. 
-
+ <br>
 <img src="img/maison_culture_image1.jpg" width="500" height="350"> <img src="img/maison_culture_image2.jpg" width="500" height="300">
 <img src="img/maison_culture_image3.jpg" width="500" height="350"> <img src="img/maison_culture_image4.jpg" width="500" height="350">
+
 sources photos: https://www.facebook.com/creationsculpturevideo/?locale=mk_MK
  #### MAPP_MTL, Never Apart, Montreal (CA), 2019-2020 (sculpture I)
 MAPP MTL transforme des espaces publics en liberté d'expression artistique en s' appuyant à la projection mapping. Son objectif principal est de favoriser 
@@ -54,7 +55,7 @@ le développemnt de la projection mapping en partageant cet avancement avec le q
 quartier.
 À l'année de l' exhibition, c'était autour du temps de covid-19 donc MAPP MTL et Never Apart se sont unit pour organiser une ehebition virtuel
 où les visiteur pouvait visiter les art nuériques 3d virtuellement avec du micro-mapping.
-
+ <br>
 <img src="img/neverAppart_mappMtl.png">
 sources photos: https://www.facebook.com/creationsculpturevideo/?locale=mk_MK  
 
@@ -64,7 +65,7 @@ focussé sur le cinéma, elle offre à ses visiteurs également des évènement 
 artiste dans leur démarche artistique.
 À l'espace rendez-vous(collaboration avec hydro québec et radio canada) du 27 février au 7 mars, Rendez-vous Québec Cinéma permet les 
 visiteur du festival à découvrir des arts numériques québecoises gratuitement qui inclu Manuel Chantre.
-
+ <br>
 <img src="img/isochrone_img.jpg" width="500" height="300"> <img src="img/isochrone_img_cote.jpg" width="500" height="300">
 <img src="img/isochrone_sculpture.jpg" width="500" height="300"> <img src="img/isochrone_sculpture_cote.jpg" width="500" height="300">
 source photo : Rendez-vous Québec Cinéma,Cinémathèque Québécoise, Montréal (CA), 2020   
@@ -73,7 +74,7 @@ source photo : Rendez-vous Québec Cinéma,Cinémathèque Québécoise, Montréa
  C'est un parcours urbain où la technologie et la créativité s' unissent. À la tombée de la nuit, le Quartier des scpectacles se
  transforment en galerie d' art ouverte au publique. Les visiteurs peuvent admirer et intéragir avec les arts numériques et découvrir de 
  nouveau monde grâce ces expériences.
- 
+  <br>
 <img src="img/mutek.jpg" width="800" height="500">
 sources photo: https://www.facebook.com/creationsculpturevideo/?locale=mk_MK
 
@@ -95,12 +96,8 @@ la sculpture qui fait portrait de la science et l'art avec l'intention de démon
 de croissance des plantes et sa beauté nous plonge dans une immersion de couleurs lumineuse  qui plait autant aux enfants 
 qu' aux adultes.
 
-<img src="img/mutek.jpg" width="800" height="500">
-
 ### Aspects Techniques
 Bois, peinture acrylique, lecteur de fichier vidéo, projecteur vidéo .
-
-
 
 ## Fonctionnement et composante de l'oeuvre
 Le motion circulaire lumineux soutenue par la sculpture démontre la représentation artistique de Emmanuel Chantre sur
