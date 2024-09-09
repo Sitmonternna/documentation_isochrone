@@ -1,5 +1,5 @@
 # Documentation de l'oeuvre numérique - Isochrone
-![alt text](img/isochrone_img.jpg)
+<img src="img/isochrone_img_face_loin.jpg" > Rendez-vous Québec Cinéma, Cinémathèque Québécoise, Montreal (CA), 2020
 
 ## Équipe
 Isochrone est une création numérique créer par Manuel Chantre du Studio Chantre en collaboration avec Francis 
@@ -64,12 +64,12 @@ la sculpture qui fait portrait de la science et l'art avec l'intention de démon
 de croissance des plantes et sa beauté nous plonge dans une immersion de couleurs lumineuse  qui plait autant aux enfants 
 qu' aux adultes.
 
+
 ### Aspects Techniques
 Bois, peinture acrylique, lecteur de fichier vidéo, projecteur vidéo .
 
-
-<img src="img/isochrone_sculpture.jpg" width="500" height="300">
-<img src="img/isochrone_sculpture_cote.jpg" width="500" height="300">
+<img src="img/isochrone_img.jpg" width="500" height="300">  <img src="img/isochrone_img_cote.jpg" width="500" height="300">
+<img src="img/isochrone_sculpture.jpg" width="500" height="300">  <img src="img/isochrone_sculpture_cote.jpg" width="500" height="300">
 
 
 ## Fonctionnement et composante de l'oeuvre
