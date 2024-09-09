@@ -55,7 +55,7 @@ quartier.
 À l'année de l' exhibition, c'était autour du temps de covid-19 donc MAPP MTL et Never Apart se sont unit pour organiser une ehebition virtuel
 où les visiteur pouvait visiter les art nuériques 3d virtuellement avec du micro-mapping.
 
-![img/isochrone_img.jpg](https://github.com/Sitmonternna/documentation_isochrone/blob/main/img/neverAppart_mappMtl.png)
+![neverAppart](img/neverAppart_mappMtl.png)
 sources photos: https://www.facebook.com/creationsculpturevideo/?locale=mk_MK  
  #### Rendez-vous Québec Cinéma,Cinémathèque Québécoise, Montreal (CA), 2020
 Un festival dédié au cinéma uniquement couvrant plusieurs genres et d' approche cinématographique. Cette compagnie n' est pas entièrement 
