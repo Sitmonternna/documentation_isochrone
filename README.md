@@ -76,14 +76,11 @@ au public. Les visiteurs peuvent admirer et interagir avec les arts numériques 
  <br>
 sources photo: https://www.facebook.com/creationsculpturevideo/?locale=mk_MK
 
-## Description et processus
+## Description, intention et processus
 Isochrone est une série de sculptures utilisant la projection de lumières et de vidéos, réalisées grâce à divers ateliers d'initiation aux arts numériques, au vidéo 
 mapping,à la découpe laser sur le bois et au design paramétrique. Les sculptures et leur mouvement circulaire sont générés par des formules mathématiques liées aux 
-cercles et aux spirales. Leur forme tridimensionnelle en bois et leur mouvement lumineux illustrent la notion d'isochronisme, c'est-à-dire la simultanéité de deux 
-phénomènes. Ce projet a permis aux étudiants du Cégep André-Laurendeau, durant l'hiver 2019, de participer activement à la réalisation de cette œuvre en fusionnant 
-leurs connaissances mathématiques avec leur créativité.
+cercles et aux spirales. 
 
-## Intention
 Cette œuvre fusionne les sciences et l'art, où le mouvement circulaire et son cycle unissent ces deux notions. L'intention derrière cette œuvre est d'illustrer le 
 processus naturel de la croissance des plantes en se basant sur la suite de Fibonacci, qui est une série de nombres exprimant la croissance des végétaux en forme spirale, 
 comme les pépins de pommes et les écailles d'ananas, ainsi que sur le design paramétrique et la représentation artistique des plantes. Manuel Chantre cherche à démontrer 
