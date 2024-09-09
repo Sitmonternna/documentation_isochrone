@@ -71,9 +71,9 @@ qu' aux adultes.
 ### Aspects Techniques
 Bois, peinture acrylique, lecteur de fichier vidéo, projecteur vidéo .
 
-![alt text](img/isochrone_img.jpg)
+![alt text](isochrone_sculpture.jpg)
 <br>
-![alt text](https://github.com/Sitmonternna/documentation_isochrone/blob/main/img/isochrone_sculpture_cote.jpg)
+![alt text](img/isochrone_sculpture_cote.jpg)
 
 ## Fonctionnement et composante de l'oeuvre
 Le motion circulaire lumineux soutenue par la sculpture démontre la représentation artistique de Emmanuel Chantre sur
