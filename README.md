@@ -31,7 +31,6 @@ Tremblay ainsi que le Cégep André-Laurendreandeau et supporter financièrement
  <br>
  Olivier Toutiras Anaïs Beauchemin de la Maison de la Culture Marie-Uguay
  <br>
- #### Production
  Olivier Heaps-Drolet
  <br>
  Annie Lévesque 
@@ -41,14 +40,11 @@ Tremblay ainsi que le Cégep André-Laurendreandeau et supporter financièrement
  Émilie Lévesque-Clément
  
 ## Date et endroit
-#### Maison de la cutlture Marie-Uguay (CA) 2019.
-Maison de la Culture Marie-Uguay est un lieu offrant des spectacle et expositions gratuites à moins de indication contraire. C' est un centre pour 
-les artistes en émergence et toute l'année elle offre des évènemen qui permmettent de découvrir des ouevres avec d' uniques forme d'art ainsi que 
-d'autre discipline d'art.
-
-#### Rendez-vous Québec Cinéma,Cinémathèque Québécoise, Montreal (CA), 2020
-Rendez-vous Québec Cinéma est un festival de cinéma 
-#### MAPP_MTL, Never Apart, Montreal (CA), 2019-2020
+ Maison de la cutlture Marie-Uguay (CA) 2019.
+  <br>
+ MAPP_MTL, Never Apart, Montreal (CA), 2019-2020
+  <br>
+ Rendez-vous Québec Cinéma,Cinémathèque Québécoise, Montreal (CA), 2020
 
 ## Description de l' oeuvre
 Isochrone est une série de sculpture avec la projection de lumières-vidéos faites avec divers ateliers d'initiation aux arts numériques, le vidéo 
@@ -71,9 +67,10 @@ qu' aux adultes.
 ### Aspects Techniques
 Bois, peinture acrylique, lecteur de fichier vidéo, projecteur vidéo .
 
-![alt text](img/isochrone_sculpture.jpg)
-<br>
-![alt text](img/isochrone_sculpture_cote.jpg)
+
+<img src="img/isochrone_sculpture.jpg" width="500" height="300">
+<img src="img/isochrone_sculpture_cote.jpg" width="500" height="300">
+
 
 ## Fonctionnement et composante de l'oeuvre
 Le motion circulaire lumineux soutenue par la sculpture démontre la représentation artistique de Emmanuel Chantre sur
@@ -84,6 +81,4 @@ dans la croissance de plantes de façon artistique.
 
 Cette composante au centre de l'oeuvre crée une harmonie entre l'art numérique et traditionnel qui est aussi mélanger avec la sciences
 démontre de l'avance dans le domaine des arts, démontrant du mélange de la technologie avec l'art.
-<br>
-![alt text](img/isochrone_img_face_loin.jpg)
 
