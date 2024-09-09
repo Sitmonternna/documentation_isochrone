@@ -1,5 +1,6 @@
 # Documentation de l'oeuvre numérique - Isochrone
 <img src="img/isochrone_img_face_loin.jpg" >
+ <br>
 source photo : Rendez-vous Québec Cinéma,Cinémathèque Québécoise, Montréal (CA), 2020
 
 ## Équipe
@@ -47,7 +48,7 @@ qui permmettent de découvrir des ouevres avec d' uniques forme d'art ainsi que 
  <br>
 <img src="img/maison_culture_image1.jpg" width="400" height="250"> <img src="img/maison_culture_image2.jpg" width="400" height="250">
 <img src="img/maison_culture_image3.jpg" width="400" height="250"> <img src="img/maison_culture_image4.jpg" width="400" height="250">
-
+ <br>
 sources photos: https://www.facebook.com/creationsculpturevideo/?locale=mk_MK
  #### MAPP_MTL, Never Apart, Montreal (CA), 2019-2020 (sculpture I)
 MAPP MTL transforme des espaces publics en liberté d'expression artistique en s' appuyant à la projection mapping. Son objectif principal est de favoriser 
@@ -57,6 +58,7 @@ quartier.
 où les visiteur pouvait visiter les art nuériques 3d virtuellement avec du micro-mapping.
  <br>
 <img src="img/neverAppart_mappMtl.png">
+ <br>
 sources photos: https://www.facebook.com/creationsculpturevideo/?locale=mk_MK  
 
  #### Rendez-vous Québec Cinéma,Cinémathèque Québécoise, Montreal (CA), 2020
@@ -77,6 +79,7 @@ source photo : Rendez-vous Québec Cinéma,Cinémathèque Québécoise, Montréa
  nouveau monde grâce ces expériences.
   <br>
 <img src="img/mutek.jpg" width="800" height="500">
+ <br>
 sources photo: https://www.facebook.com/creationsculpturevideo/?locale=mk_MK
 
 ## Description de l' oeuvre
