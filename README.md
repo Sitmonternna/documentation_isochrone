@@ -85,5 +85,5 @@ dans la croissance de plantes de façon artistique.
 Cette composante au centre de l'oeuvre crée une harmonie entre l'art numérique et traditionnel qui est aussi mélanger avec la sciences
 démontre de l'avance dans le domaine des arts, démontrant du mélange de la technologie avec l'art.
 <br>
-![alt text](https://github.com/Sitmonternna/documentation_isochrone/blob/main/img/isochrone_img_face_loin.jpg)
+![alt text](img/isochrone_img_face_loin.jpg)
 
