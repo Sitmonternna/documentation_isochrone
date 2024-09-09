@@ -68,8 +68,8 @@ qu' aux adultes.
 ### Aspects Techniques
 Bois, peinture acrylique, lecteur de fichier vidéo, projecteur vidéo .
 
-<img src="img/isochrone_img.jpg" width="500" height="300">  <img src="img/isochrone_img_cote.jpg" width="500" height="300">
-<img src="img/isochrone_sculpture.jpg" width="500" height="300">  <img src="img/isochrone_sculpture_cote.jpg" width="500" height="300">
+<img src="img/isochrone_img.jpg" width="500" height="300"><img src="img/isochrone_img_cote.jpg" width="500" height="300">
+<img src="img/isochrone_sculpture.jpg" width="500" height="300"><img src="img/isochrone_sculpture_cote.jpg" width="500" height="300">
 
 
 ## Fonctionnement et composante de l'oeuvre
