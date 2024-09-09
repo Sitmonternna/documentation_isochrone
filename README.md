@@ -40,11 +40,23 @@ Tremblay ainsi que le Cégep André-Laurendreandeau et supporter financièrement
  Émilie Lévesque-Clément
  
 ## Date et endroit
- Maison de la cutlture Marie-Uguay (CA) 2019.
-  <br>
- MAPP_MTL, Never Apart, Montreal (CA), 2019-2020
-  <br>
- Rendez-vous Québec Cinéma,Cinémathèque Québécoise, Montreal (CA), 2020
+ #### Maison de la cutlture Marie-Uguay (CA) 2019.
+C' est un lieu qui offre des spectacle et expositions gratuites à moins de indication contraire et toute l'année elle offre des évènement 
+qui permmettent de découvrir des ouevres avec d' uniques forme d'art ainsi que d'autre discipline d'art. 
+
+ #### MAPP_MTL, Never Apart, Montreal (CA), 2020 (sculpture I)
+
+ #### Rendez-vous Québec Cinéma,Cinémathèque Québécoise, Montreal (CA), 2020
+Un festival dédié au cinéma uniquement couvrant plusieurs genres et d' approche cinématographique. Cette compagnie n' est pas entièrement 
+focussé sur le cinéma, elle offre à ses visiteurs également des évènement gratuite relié à d'autre genre d'art afin d'encourager les 
+artiste dans leur démarche artistique.
+À l'espace rendez-vous(collaboration avec hydro québec et radio canada) du 27 février au 7 mars, Rendez-vous Québec Cinéma permet les 
+visiteur du festival à découvrir des arts numériques québecoises gratuitement qui inclu Manuel Chantre.
+
+ #### Mutek, Village Numérique, Montreal (CA), 2024
+ C'est un parcours urbain où la technologie et la créativité s' unissent. À la tombée de la nuit, le Quartier des scpectacles se
+ transforment en galerie d' art ouverte au publique. Les visiteurs peuvent admirer et intéragir avec les arts numériques et découvrir de 
+ nouveau monde grâce ces expériences.
 
 ## Description de l' oeuvre
 Isochrone est une série de sculpture avec la projection de lumières-vidéos faites avec divers ateliers d'initiation aux arts numériques, le vidéo 
