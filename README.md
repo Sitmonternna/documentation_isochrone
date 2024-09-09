@@ -68,6 +68,7 @@ visiteur du festival à découvrir des arts numériques québecoises gratuitemen
  <br>
 <img src="img/isochrone_img.jpg" width="500" height="300"> <img src="img/isochrone_img_cote.jpg" width="500" height="300">
 <img src="img/isochrone_sculpture.jpg" width="500" height="300"> <img src="img/isochrone_sculpture_cote.jpg" width="500" height="300">
+ <br>
 source photo : Rendez-vous Québec Cinéma,Cinémathèque Québécoise, Montréal (CA), 2020   
 
  #### Mutek, Village Numérique, Montreal (CA), 2024
@@ -98,6 +99,10 @@ qu' aux adultes.
 
 ### Aspects Techniques
 Bois, peinture acrylique, lecteur de fichier vidéo, projecteur vidéo .
+
+  <br>
+<img src="img/processus_1.jpg" width="800" height="500">
+sources photo: https://www.facebook.com/creationsculpturevideo/?locale=mk_MK
 
 ## Fonctionnement et composante de l'oeuvre
 Le motion circulaire lumineux soutenue par la sculpture démontre la représentation artistique de Emmanuel Chantre sur
